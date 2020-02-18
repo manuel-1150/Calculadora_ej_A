@@ -3,11 +3,8 @@ package calculadoraa;
 
 import java.util.Scanner;
 
+//hola
 
-/**
- *
- * @author manuel
- */
 public class CalculadoraA {
 
    public Scanner teclado;
