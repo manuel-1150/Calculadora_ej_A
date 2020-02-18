@@ -10,6 +10,7 @@ public class CalculadoraA {
    public Scanner teclado;
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
+        
         int op,op2;
         
         codigo ob = new codigo();                       //Creacion del objeto
